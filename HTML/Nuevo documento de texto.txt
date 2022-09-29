@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+
+<html>
+<body>
+<h2><a id="top">Un subtitular </a></h2>
+<p>Una Página de texto es un texto normal mecanografiado sin formato (texto plano), es
+decir, sin ningún tipo de estilos (negrita, cursiva…) y sin estructuras (listas, tablas…). Esto
+no quiere decir Una Página de texto es un texto normal mecanografiado sin formato (texto plano), es decir, sin ningún tipo de estilos (negrita, cursiva…) y sin estructuras (listas, tablas…). Esto no quiere decir que este recurso no pueda contener estilos y estructuras, pero hay que lograrlo utilizando una sintaxis explícita. Es recomendable su uso en aquellos contenidos de carácter obligatorio y relativamente estable durante en curso, como por ejemplo normas de seguridad. Cuando se amplia el contenido a presentar podemos trasladarlo al formato libro o lección de Moodle.
+
+Para agregar un recurso de tipo Página de texto debemos activar el modo de edición y seleccionar la opción Editar una página de texto de la lista desplegable Agregar recurso…; se mostrará un formulario, en el que habremos de configurar los diferentes parámetros. Los parámetros se agrupan por secciones; los correspondientes a Ajustes generales, Ventana y Ajustes comunes del módulo, aparecerán en los formularios de configuración de todos los recursos. En el caso presente son los siguientes:
+
+Formato automático: es el formato más simple con el que se pueden especificar estilos de texto y el mejor cuando utilizamos formularios web normales para escribir texto (en lugar del editor HTML enriquecido). Todo el texto se acepta tal cual se escribe y Moodle se encargará de realizar algunas operaciones para formatear automáticamente el texto. Por ejemplo, todo texto que comience por “http://” o por “www.” se convertirá en enlace a la dirección especificada. Las formas textuales de indicar emoción se convertirán en su correspondiente emoticón: el texto “:-)” se traducirá en la inserción de . También se pueden incrustar algunas marcas HTML para aplicar formato al texto, como las que se incluyen en la siguiente tabla:que este recurso no pueda contener estilos y estructuras, pero hay que
+lograrlo utilizando na Página de texto es un texto normal mecanografiado sin formato (texto plano), es
+decir, sin ningún tipo de estilos (negrita, cursiva…) y sin estructuras (listas, tablas…). Esto
+no quiere decir Una Página de texto es un texto normal mecanografiado sin formato (texto plano), es decir, sin ningún tipo de estilos (negrita, cursiva…) y sin estructuras (listas, tablas…). Esto no quiere decir que este recurso no pueda contener estilos y estructuras, pero hay que lograrlo utilizando una sintaxis explícita. Es recomendable su uso en aquellos contenidos de carácter obligatorio y relativamente estable durante en curso, como por ejemplo normas de seguridad. Cuando se amplia el contenido a presentar podemos trasladarlo al formato libro o lección de Moodle.
+
+Para agregar un recurso de tipo Página de texto debemos activar el modo de edición y seleccionar la opción Editar una página de texto de la lista desplegable Agregar recurso…; se mostrará un formulario, en el que habremos de configurar los diferentes parámetros. Los parámetros se agrupan por secciones; los correspondientes a Ajustes generales, Ventana y Ajustes comunes del módulo, aparecerán en los formularios de configuración de todos los recursos. En el caso presente son los siguientes:
+
+Formato automático: es el formato más simple con el que se pueden especificar estilos de texto y el mejor cuando utilizamos formularios web normales para escribir texto (en lugar del editor HTML enriquecido). Todo el texto se acepta tal cual se escribe y Moodle se encargará de realizar algunas operaciones para formatear automáticamente el texto. Por ejemplo, todo texto que comience por “http://” o por “www.” se convertirá en enlace a la dirección especificada. Las formas textuales de indicar emoción se convertirán en su correspondiente emoticón: el texto “:-)” se traducirá en la inserción de . También se pueden incrustar algunas marcas HTML para aplicar formato al texto, como las que se incluyen en la siguiente tabla:que este recurso no pueda contener estilos y estructuras, pero hay que
+lograrlo utilizando una sintaxis explícita. Es recomendable su uso en aquellos contenidos
+de carácter obligatorio y relativamente estable
+durante en curso, como por ejemplo normas de
+seguridad. Cuando se amplia el contenido a
+presentar podemos trasladarlo al formato libuna sintaxis explícita. Es recomendable su uso en aquellos contenidos
+de carácter obligatorio y relativamente estable
+durante en curso, como por ejemplo normas de
+seguridad. Cuando se amplia el contenido a
+presentar podemos trasladarlo al formato libro o
+lección de Moodle.</p>
+<p>Para agregar un recurso de tipo Página de texto
+debemos activar el modo de edición y seleccionar la opción Editar una página de texto de
+la lista desplegable Agregar recurso…; se mostrará un formulario, en el que habremos de
+configurar los diferentes parámetros. Los parámetros se agrupan por secciones; los
+correspondientes a Ajustes generales, Ventana y Ajustes comunes del módulo,
+aparecerán enUna Página de texto es un texto normal mecanografiado sin formato (texto plano), es decir, sin ningún tipo de estilos (negrita, cursiva…) y sin estructuras (listas, tablas…). Esto no quiere decir que este recurso no pueda contener estilos y estructuras, pero hay que lograrlo utilizando una sintaxis explícita. Es recomendable su uso en aquellos contenidos de carácter obligatorio y relativamente estable durante en curso, como por ejemplo normas de seguridad. Cuando se amplia el contenido a presentar podemos trasladarlo al formato libro o lección de Moodle.
+
+Para agregar un recurso de tipo Página de texto debemos activar el modo de edición y seleccionar la opción Editar una página de texto de la lista desplegable Agregar recurso…; se mostrará un formulario, en el que habremos de configurar los diferentes parámetros. Los parámetros se agrupan por secciones; los correspondientes a Ajustes generales, Ventana y Ajustes comunes del módulo, aparecerán en los formularios de configuración de todos los recursos. En el caso presente son los siguientes:
+
+Formato automático: es el formato más simple con el que se pueden especificar estilos de texto y el mejor cuando utilizamos formularios web normales para escribir texto (en lugar del editor HTML enriquecido). Todo el texto se acepta tal cual se escribe y Moodle se encargará de realizar algunas operaciones para formatear automáticamente el texto. Por ejemplo, todo texto que comience por “http://” o por “www.” se convertirá en enlace a la dirección especificada. Las formas textuales de indicar emoción se convertirán en su correspondiente emoticón: el texto “:-)” se traducirá en la inserción de . También se pueden incrustar algunas marcas HTML para aplicar formato al texto, como las que se incluyen en la siguiente tabla: los formularios de configuración de todos los recursos. En el caso presente
+son los siguientes:</p>
+<p>Formato automático: es el formato más simple con el
+que se pueden especificarnana Página de texto es un texto normal mecanografiado sin formato (texto plano), es
+decir, sin ningún tipo de estilos (negrita, cursiva…) y sin estructuras (listas, tablas…). Esto
+no quiere decir Una Página de texto es un texto normal mecanografiado sin formato (texto plano), es decir, sin ningún tipo de estilos (negrita, cursiva…) y sin estructuras (listas, tablas…). Esto no quiere decir que este recurso no pueda contener estilos y estructuras, pero hay que lograrlo utilizando una sintaxis explícita. Es recomendable su uso en aquellos contenidos de carácter obligatorio y relativamente estable durante en curso, como por ejemplo normas de seguridad. Cuando se amplia el contenido a presentar podemos trasladarlo al formato libro o lección de Moodle.
+
+Para agregar un recurso de tipo Página de texto debemos activar el modo de edición y seleccionar la opción Editar una página de texto de la lista desplegable Agregar recurso…; se mostrará un formulario, en el que habremos de configurar los diferentes parámetros. Los parámetros se agrupan por secciones; los correspondientes a Ajustes generales, Ventana y Ajustes comunes del módulo, aparecerán en los formularios de configuración de todos los recursos. En el caso presente son los siguientes:
+
+Formato automático: es el formato más simple con el que se pueden especificar estilos de texto y el mejor cuando utilizamos formularios web normales para escribir texto (en lugar del editor HTML enriquecido). Todo el texto se acepta tal cual se escribe y Moodle se encargará de realizar algunas operaciones para formatear automáticamente el texto. Por ejemplo, todo texto que comience por “http://” o por “www.” se convertirá en enlace a la dirección especificada. Las formas textuales de indicar emoción se convertirán en su correspondiente emoticón: el texto “:-)” se traducirá en la inserción de . También se pueden incrustar algunas marcas HTML para aplicar formato al texto, como las que se incluyen en la siguiente tabla:que este recurso no pueda contener estilos y estructuras, pero hay que
+lograrlo utilizando una sintaxis explícita. Es recomendable su uso en aquellos contenidos
+de carácter obligatorio y relativamente estable
+durante en curso, como por ejemplo normas de
+seguridad. Cuando se amplia el contenido a
+presentar podemos trasladarlo al formato lib Página de texto es un texto normal mecanografiado sin formato (texto plano), es
+decir, sin ningún tipo de estilos (negrita, cursiva…) y sin estructuras (listas, tablas…). Esto
+no quiere decir Una Página de texto es un texto normal mecanografiado sin formato (texto plano), es decir, sin ningún tipo de estilos (negrita, cursiva…) y sin estructuras (listas, tablas…). Esto no quiere decir que este recurso no pueda contener estilos y estructuras, pero hay que lograrlo utilizando una sintaxis explícita. Es recomendable su uso en aquellos contenidos de carácter obligatorio y relativamente estable durante en curso, como por ejemplo normas de seguridad. Cuando se amplia el contenido a presentar podemos trasladarlo al formato libro o lección de Moodle.
+
+Para agregar un recurso de tipo Página de texto debemos activar el modo de edición y seleccionar la opción Editar una página de texto de la lista desplegable Agregar recurso…; se mostrará un formulario, en el que habremos de configurar los diferentes parámetros. Los parámetros se agrupan por secciones; los correspondientes a Ajustes generales, Ventana y Ajustes comunes del módulo, aparecerán en los formularios de configuración de todos los recursos. En el caso presente son los siguientes:
+
+Formato automático: es el formato más simple con el que se pueden especificar estilos de texto y el mejor cuando utilizamos formularios web normales para escribir texto (en lugar del editor HTML enriquecido). Todo el texto se acepta tal cual se escribe y Moodle se encargará de realizar algunas operaciones para formatear automáticamente el texto. Por ejemplo, todo texto que comience por “http://” o por “www.” se convertirá en enlace a la dirección especificada. Las formas textuales de indicar emoción se convertirán en su correspondiente emoticón: el texto “:-)” se traducirá en la inserción de . También se pueden incrustar algunas marcas HTML para aplicar formato al texto, como las que se incluyen en la siguiente tabla:que este recurso no pueda contener estilos y estructuras, pero hay que
+lograrlo utilizando una sintaxis explícita. Es recomendable su uso en aquellos contenidos
+de carácter obligatorio y relativamente estable
+durante en curso, como por ejemplo normas de
+seguridad. Cuando se amplia el contenido apresentar podemos trasladarlo al formato lib estilos de texto y el mejor cuando utilizamos
+formularios web normales para escribir na Página de texto es un texto normal mecanografiado sin formato (texto plano), es
+decir, sin ningún tipo de estilos (negrita, cursiva…) y sin estructuras (listas, tablas…). Esto
+no quiere decir Una Página de texto es un texto normal mecanografiado sin formato (texto plano), es decir, sin ningún tipo de estilos (negrita, cursiva…) y sin estructuras (listas, tablas…). Esto no quiere decir que este recurso no pueda contener estilos y estructuras, pero hay que lograrlo utilizando una sintaxis explícita. Es recomendable su uso en aquellos contenidos de carácter obligatorio y relativamente estable durante en curso, como por ejemplo normas de seguridad. Cuando se amplia el contenido a presentar podemos trasladarlo al formato libro o lección de Moodle.
+
+Para agregar un recurso de tipo Página de texto debemos activar el modo de edición y seleccionar la opción Editar una página de texto de la lista desplegable Agregar recurso…; se mostrará un formulario, en el que habremos de configurar los diferentes parámetros. Los parámetros se agrupan por secciones; los correspondientes a Ajustes generales, Ventana y Ajustes comunes del módulo, aparecerán en los formularios de configuración de todos los recursos. En el caso presente son los siguientes:
+
+Formato automático: es el formato más simple con el que se pueden especificar estilos de texto y el mejor cuando utilizamos formularios web normales para escribir texto (en lugar del editor HTML enriquecido). Todo el texto se acepta tal cual se escribe y Moodle se encargará de realizar algunas operaciones para formatear automáticamente el texto. Por ejemplo, todo texto que comience por “http://” o por “www.” se convertirá en enlace a la dirección especificada. Las formas textuales de indicar emoción se convertirán en su correspondiente emoticón: el texto “:-)” se traducirá en la inserción de . También se pueden incrustar algunas marcas HTML para aplicar formato al texto, como las que se incluyen en la siguiente tabla:que este recurso no pueda contener estilos y estructuras, pero hay que
+lograrlo utilizando una sintaxis explícita. Es recomendable su uso en aquellos contenidos
+de carácter obligatorio y relativamentena Página de texto es un texto normal mecanografiado sin formato (texto plano), es
+decir, sin ningún tipo de estilos (negrita, cursiva…) y sin estructuras (listas, tablas…). Esto
+no quiere decir Una Página de texto es un texto normal mecanografiado sin formato (texto plano), es decir, sin ningún tipo de estilos (negrita, cursiva…) y sin estructuras (listas, tablas…). Esto no quiere decir que este recurso no pueda contener estilos y estructuras, pero hay que lograrlo utilizando una sintaxis explícita. Es recomendable su uso en aquellos contenidos de carácter obligatorio y relativamente estable durante en curso, como por ejemplo normas de seguridad. Cuando se amplia el contenido a presentar podemos trasladarlo al formato libro o lección de Moodle.
+
+Para agregar un recurso de tipo Página de texto debemos activar el modo de edición y seleccionar la opción Editar una página de texto de la lista desplegable Agregar recurso…; se mostrará un formulario, en el que habremos de configurar los diferentes parámetros. Los parámetros se agrupan por secciones; los correspondientes a Ajustes generales, Ventana y Ajustes comunes del módulo, aparecerán en los formularios de configuración de todos los recursos. En el caso presente son los siguientes:
+
+Formato automático: es el formato más simple con el que se pueden especificar estilos de texto y el mejor cuando utilizamos formularios web normales para escribir texto (en lugar del editor HTML enriquecido). Todo el texto se acepta tal cual se escribe y Moodle se encargará de realizar algunas operaciones para formatear automáticamente el texto. Por ejemplo, todo texto que comience por “http://” o por “www.” se convertirá en enlace a la dirección especificada. Las formas textuales de indicar emoción se convertirán en su correspondiente emoticón: el texto “:-)” se traducirá en la inserción de . También se pueden incrustar algunas marcas HTML para aplicar formato al texto, como las que se incluyen en la siguiente tabla:que este recurso no pueda contener estilos y estructuras, pero hay que
+lograrlo utilizando una sintaxis explícita. Es recomendable su uso en aquellos contenidos
+de carácter obligatorio y relativamente estable
+durante en curso, como por ejemplo normas de
+seguridad. Cuando se amplia el contenido a
+presentar podemos trasladarlo al formato lib estable
+durante en curso, como por ejemplo normas de
+seguridad. Cuando se amplia el contenido a
+presentar podemos trasladarlo al formato libtexto (en lugar del editor HTML
+enriquecido). Todo elUna Página de texto es un texto normal mecanografiado sin formato (texto plano), es decir, sin ningún tipo de estilos (negrita, cursiva…) y sin estructuras (listas, tablas…). Esto no quiere decir que este recurso no pueda contener estilos y estructuras, pero hay que lograrlo utilizando una sintaxis explícita. Es recomendable su uso en aquellos contenidos de carácter obligatorio y relativamente estable durante en curso, como por ejemplo normas de seguridad. Cuando se amplia el contenido a presentar podemos trasladarlo al formato libro o lección de Moodle.
+
+Para agregar un recurso de tipo na Página de texto es un texto normal mecanografiado sin formato (texto plano), es
+decir, sin ningún tipo de estilos (negrita, cursiva…) y sin estructuras (listas, tablas…). Esto
+no quiere decir Una Página de texto es un texto normal mecanografiado sin formato (texto plano), es decir, sin ningún tipo de estilos (negrita, cursiva…) y sin estructuras (listas, tablas…). Esto no quiere decir que este recurso no pueda contener estilos y estructuras, pero hay que lograrlo utilizando una sintaxis explícita. Es recomendable su uso en aquellos contenidos de carácter obligatorio y relativamente estable durante en curso, como por ejemplo normas de seguridad. Cuando se amplia el contenido a presentar podemos trasladarlo al formato libro o lección de Moodle.
+
+Para agregar un recurso de tipo Página de texto debemos activar el modo de edición y seleccionar la opción Editar una página de texto de la lista desplegable Agregar recurso…; se mostrará un formulario, en el que habremos de configurar los diferentes parámetros. Los parámetros se agrupan por secciones; los correspondientes a Ajustes generales, Ventana y Ajustes comunes del módulo, aparecerán en los formularios de configuración de todos los recursos. En el caso presente son los siguientes:
+
+Formato automático: es el formato más simple con el que se pueden especificar estilos de texto y el mejor cuando utilizamos formularios web normales para escribir texto (en lugar del editor HTML enriquecido). Todo el texto se acepta tal cual se escribe y Moodle se encargará de realizar algunas operaciones para formatear automáticamente el texto. Por ejemplo, todo texto que comience por “http://” o por “www.” se convertirá en enlace a la dirección especificada. Las formas textuales de indicar emoción se convertirán en su correspondiente emoticón: el texto “:-)” se traducirá en la inserción de . También se pueden incrustar algunas marcas HTML para aplicar formato al texto, como las que se incluyen en la siguiente tabla:que este recurso no pueda contener estilos y estructuras, pero hay que
+lograrlo utilizando una sintaxis explícita. Es recomendable su uso en aquellos contenidos
+de carácter obligatorio y relativamente estable
+durante en curso, como por ejemplo normas de
+seguridad. Cuando se amplia el contenido a
+presentar podemos trasladarlo al formato libPágina de texto debemos activar el modo de edición y seleccionar la opción Editar una página de texto de la lista desplegable Agregar recurso…; se mostrará un formulario, en el que habremos de configurar los diferentes parámetros. Los parámetros se agrupan por secciones; los correspondientes a Ajustes generales, Ventana y Ajustes comunes del módulo, aparecerán en los formularios de configuración de todos los recursos. En el caso presente son los siguientes:
+
+Formato automático: es el formato más simple con el que se pueden especificar estilos de texto y el mejor cuando utilizamos formularios web normales para escribir texto (en lugar del editor HTML enriquecido). Todo el texto se acepta tal cual se escribe y Moodle se encargará de realizar algunas operaciones para formatear automáticamente el texto. Por ejemplo, todo texto que comience por “http://” o por “www.” se convertirá en enlace a la dirección especificada. Las formas textuales de indicar emoción se convertirán en su correspondiente emoticón: el texto “:-)” se traducirá en la inserción de . También se pueden incrustar algunas marcas HTML para aplicar formato al texto, como las que se incluyen en la siguiente tabla: texto se acepta tal cual se escribe y Moodle se encargará
+de realizar algunas operaciones para formatear automáticamente el texto. Por
+ejemplo, todo texto que comience por “http://” o por “www.” se convertirá en
+enlace a la dirección especificada. Las formas textuales de indicar emoción se
+convertirán en su correspondiente emoticón: el texto “:-)” se traducirá en la
+inserción de . También se pueden incrustar algunas marcas HTML para aplicar
+formato al texto, como las que se incluyen en la siguiente tabla:
+</p>
+<a href="#top">Ir hasta el subtitular</a>
+</body>
+</html>
